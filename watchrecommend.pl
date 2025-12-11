@@ -58,7 +58,7 @@ film_or_show(hereditary, excited, high, horror, 2).
 film_or_show(chernobyl, lonely, [low, medium], drama, 1).
 film_or_show(knivesout, curious, low, crime, 2.5).
 film_or_show(clarksons_farm, happy, low, documentary, 1).
-film_or_show(attack_on_titan, excited, high, [anime, action], 1)
+film_or_show(attack_on_titan, excited, high, [anime, action], 1).
 film_or_show(titanic, sad, low, [romance, drama], 3.5).
 film_or_show(2001_a_space_odyssey, curious, medium, scifi, 2.5).
 
